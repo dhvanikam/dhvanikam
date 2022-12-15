@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dhvanika</h1>
-<h3 align="center">A passionate Senior QA</h3>
 
 - 🌱 I’m currently learning **Python and Selenium**
 
