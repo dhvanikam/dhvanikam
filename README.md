@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhvanika</h1>
 
-- 🌱 I’m currently learning **Python and Selenium**
+- 🌱 I’m currently learning **Java and Selenium**
 
 - 📫 How to reach me **dhvanika.patel@gmail.com**
 
