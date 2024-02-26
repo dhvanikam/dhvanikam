@@ -29,6 +29,8 @@
 
 <h3 align="left">Certifications :</h3>
 
+![image](https://github.com/dhvanikam/dhvanikam/assets/73573915/68cef3e1-a0c4-4f1c-9ab9-fdb5ac34199c)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvanikam&layout=compact" alt="dhvanika" /></p>
