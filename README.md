@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhvanika</h1>
+<h1 align="center">Hi 👋, I'm Dhvanika :woman_technologist: </h1>
 
 - 🌱 I’m currently learning **Docker**
 
