@@ -25,7 +25,7 @@
 
 <h3 align="left">:mortar_board:Certifications :</h3>
 
-![image](https://github.com/dhvanikam/dhvanikam/assets/73573915/68cef3e1-a0c4-4f1c-9ab9-fdb5ac34199c)
+<img src="https://github.com/dhvanikam/dhvanikam/assets/73573915/c4be08b7-805d-4381-b5dc-aded4349f775" alt="linux" width="80" height="80"/>
 
 
 <h3 align="left">:writing_hand: Blog Posts :</h3>
