@@ -25,7 +25,8 @@
 
 <h3 align="left">:mortar_board:Certifications :</h3>
 
-<img src="https://github.com/dhvanikam/dhvanikam/assets/73573915/c4be08b7-805d-4381-b5dc-aded4349f775" alt="linux" width="80" height="80"/>
+<img src="https://github.com/dhvanikam/dhvanikam/assets/73573915/c4be08b7-805d-4381-b5dc-aded4349f775" alt="aws" width="80" height="80"/>
+<img src="https://github.com/dhvanikam/dhvanikam/assets/73573915/e9fc86b7-20a3-45bd-99d3-e805b153c327" alt="ISTQB" width="80" height="80"/>
 
 
 <h3 align="left">:writing_hand: Blog Posts :</h3>
